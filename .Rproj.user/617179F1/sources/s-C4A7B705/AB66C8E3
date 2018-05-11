@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526042589838.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AB66C8E3",
+    "lastKnownWriteTime" : 1498105046,
+    "last_content_update" : 1498105046,
+    "path" : "C:/Accenture/Programs/R/workfiles/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch-master/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "14,16",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
